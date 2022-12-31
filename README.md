@@ -1,6 +1,6 @@
 # MZiziBlogApplication
 
-Django Blog is a multi-user blogging platform built using the Django web framework. It allows multiple users to register and create their own blogs.
+is a multi-user blogging platform built using the Django web framework. It allows multiple users to register and create their own blogs.
 
 # Features
 ```
